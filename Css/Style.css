@@ -1,0 +1,32 @@
+body{
+    font: 20px comic
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0);
+}
+.quem-somos {
+    background-color: aquamarine;
+
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.parceiros {
+    background-color: rgb(61, 111, 151);
+    
+}
+
+.serviços{
+    background-color: beige;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+.texto-parc{
+    color: white;
+font-weight: bolder;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
